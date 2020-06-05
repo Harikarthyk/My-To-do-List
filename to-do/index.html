@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>To-do</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://fonts.googleapis.com/css2?family=Arvo&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Acme&family=Piedra&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div class="header">
+			<div class="head">
+				<h1>My To do List</h1>
+			</div>
+		</div>
+		<div class="container">
+			<div class="input-field">
+				<input type="text" id="task" class="add" placeholder="Enter the task ">
+			</div>	
+			<div class="button">
+				<button type="submit" class="completed" >Completed</button>
+				<button type="submit" class="active" >Active</button>
+			</div>
+			<div class="display">
+				<div class="display-active">
+					<ul>
+					</ul>	
+				</div>
+				<div class="display-completed">
+					<ul>
+					</ul>
+				</div>
+			</div>
+			<div class="footer">
+				<div class="footer-content"> Active : <div id="count-active" > 0 </div></div>
+				<div class="footer-content"> Completed :<div id="count-completed">0</div> </div>
+			</div>	
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script type="text/javascript" src="To-do.js" ></script>
+	</body>
+</html>
