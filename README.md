@@ -7,7 +7,7 @@ Sample outlook of what I have done
 
 
 
-![My-To-do-List]https://github.com/Harikarthyk/My-To-do-List/blob/master/img2.png)
+![My-To-do-List](https://github.com/Harikarthyk/My-To-do-List/blob/master/img2.png)
 
 
 
