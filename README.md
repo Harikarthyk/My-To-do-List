@@ -12,3 +12,5 @@ Sample outlook of what I have done
 
 
 ![My-To-do-List](https://github.com/Harikarthyk/My-To-do-List/blob/master/img3.jpg)
+
+[![binarysearch](https://binarysearch.com/api/shields/username)](https://binarysearch.com/@/harikarthyk)
